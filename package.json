@@ -1,0 +1,8 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cinan/actions.git",
+  "author": "Cinan Rakosnik <cinan6@gmail.com>",
+  "license": "MIT"
+}
